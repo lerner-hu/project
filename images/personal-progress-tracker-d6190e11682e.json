@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "personal-progress-tracker",
+  "private_key_id": "d6190e11682e1211e104c3f0085fcee5fec59faf",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCY41nc9GGDTibf\nh8+I0p6e1CXfR/lVIOF5sdLdMvPGkWtorornKbf8I5krOTA9v+zDLcomSbbWxi2y\nGx0yP4tUGjuCrbt+pLdmbssNVRz0kMTwN19FO5AvmkroY7fLyBsm1fKh1nEMkbx2\nOMAcGWb2sUhZ1i+GDl7QOSZASqx/gVjKeM7n5LOc/L1pxBfulOVhQe9OHNjnEMzf\nN7JUhQ0ijSd5QwcnxPAJ22D7iN9wGfYpH4EpInfCXtXuJeJX4a6wEFJCnM/fXAji\nYXlRRaNCLAGrOGxet4hzRSwRo2XVA4BtXkfXqrWrpiNQqbNbKNGL0/WpsJ/n937Q\nQT471SRNAgMBAAECggEAA1ZPE1YYPMv7aDyoKIXkZXYe/4EsLZICqevaPO7MSGTL\nMeVBbetIs025nappZaenTNlWhMBuJ8D6pV0XJY4iheruqpsNMSX6RNedQgS+FY6F\nZfLndvTmYEufX/QxQlbzVMUtvx+Vpx8VPIVfmB1r1G2pNSDKN8RfiG7+6T9YBY5u\nFTRyJjN87+SWd52RPXYmLnBkkgJgUkT7Ttyr2pVivE9h/CVAMliE25vFBumq5u8Y\n2IxSP0q9VCi1v586hCyiMlHPrJFjGcdAOCtQ6l+ZuepibaGUikUXjhllVfd+lQEB\nR4idnE/dYEUGOOX4gm4P+PvWiD8ojCUkrLvT69e+wQKBgQDHBhDIP362QHtjx01l\n6m/Xx7rp0rA/UEp6zve3WRt0dG1jKommDTeyilHttc43BzUd1DCI9G/aQYjkWN3S\nJqdUnu+3tNOhbr42E6cLNsD+m3n150CLXoJmozwmkmaKzEPGwkbYY4yRcurGmORU\nNUIlDuVz4LimdaZntaaVxiVaLQKBgQDEqCAzSBgeOLWKogKTxF2q+lSkl/pGnZxA\nX+PeH8mj1H1PLJcjE81cQZgwqs5JdEIIREKrUqz02mXA2NenElSuiyzz9xeI9pfr\nEhmIBMWWVORFkPavXd5eWxg+m/2sryonoaAiPvi0nfNgqzWYV9FOQhaXPrBtiUde\nh8Svf3/moQKBgFZP9RtDHirgECMXniNi5ppIDnG1Y6YxpftYoumrBVMd4wqsugF/\nnfYaMqnKvOH0iD6ldV8P0ypuXXXabGjlRpBWVVPwYg+SvX8qSrl8R3qj5uKUJdPL\navYkOMPpnfr31zTtsFfL5Hx3wAXc7LjwV/1GVpBIlwvp3f8AMnyl8DEJAoGAWiyJ\nj1o4jOsN+4KsUduR48ujslFp1qWAt1gA4aKL0E6oIvzcVJ5I5UvCoFZB/xaLDMVY\nGLzxR9k5HUORJy/Vmq+ArmGX7hq8sHJ9OIyPmY5VmbyOEP2m8Hcu186pdFxhpQiM\nqAdd/VwL9ECtc6yY8hyFxVZeieuPyT3SJ3L8T+ECgYB51Ltc6jlMf48GHYJobSJv\nFGbOVpaXTwng1GoBAm3FkiLarGuvPCjLVO33UBpcRGcLxl34gdfTLeGX98GnKCVV\n7Lo3JZzmUU3QlAjopMdLa4VX/w27raWrZ9vVpAuvj50jjM2F7Q1Y43KuCqNgCCVa\nEDYHY6qZgAmcv26D43Oybg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "satyam-gurav@personal-progress-tracker.iam.gserviceaccount.com",
+  "client_id": "117011620346263135326",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/satyam-gurav%40personal-progress-tracker.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
